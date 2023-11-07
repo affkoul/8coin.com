@@ -1,2 +1,5 @@
 # 8coin.com
-[8coin.com](https://8coin.com) Exchange &amp; Trade Web App By GAC DEV &amp; Other Nimble Teammates
+
+![GAC Logo](https://geniusandcourage.com/favicon.ico)
+
+[8coin.com](https://8coin.com) Exchange &amp; Trade Web App By GAC DEV [GAC DEV](https://geniusandcourage.com) &amp; Other Nimble Teammates
